@@ -46,9 +46,8 @@
   [![Tech Blog Badge](http://img.shields.io/badge/-SudonNoh%20Github-black?style=flat-square&logo=github&link=https://github.com/SudonNoh/)](https://github.com/SudonNoh/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sudonnoh@gmail.com)](mailto:sudonnoh@gmail.com)
   
-  <a href=https://axce.tistory.com/ target=_blank>
-    SUDONNOH
-  </a>
+  [![Tistory Badge](https://img.shields.io/badge/Blog-AXCE%20Tstory-F78282?style=flat&logoColor=white)](https://axce.tistory.com/)
+  
   
 </div>
 
