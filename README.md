@@ -10,7 +10,6 @@
 
 <div align=center>
   <br>
-  <br>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSudonNoh&count_bg=%23746790&title_bg=%23032D7C&icon=fandom.svg&icon_color=%23FB0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -22,10 +21,9 @@
 <div align=center>
   
   <br>
-  <br>
   
   <h2>:muscle: Stack</h2>
-  
+  <p>Click! to see this stack in blog </p>
   <a href="https://axce.tistory.com/category/IT/Python">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   </a>
@@ -52,7 +50,6 @@
 
 <div align=center>
   
-  <br>
   <br>
   
   <h2>:telephone_receiver: Contact</h2>
