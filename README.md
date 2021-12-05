@@ -23,7 +23,7 @@
   <br>
   
   <h2>:muscle: Stack</h2>
-  <p>Click! to see this stack in blog </p>
+  <p>Click to see this stack in blog !!</p>
   <a href="https://axce.tistory.com/category/IT/Python">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   </a>
