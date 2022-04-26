@@ -24,25 +24,25 @@
   
   <h2>:muscle: Stack</h2>
   <p>Click to see this stack in blog !!</p>
-  <a href="https://axce.tistory.com/category/IT/Python">
+  <a href="https://axce.tistory.com/category/BackEnd/Python">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   </a>
-  <a href="https://axce.tistory.com/category/IT/Django">
+  <a href="https://axce.tistory.com/category/BackEnd/Django">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   </a>
-  <a href="https://axce.tistory.com/category/IT/DRF%20Project">
+  <a href="https://axce.tistory.com/category/BackEnd/DRF%20Project">
     <img src="https://img.shields.io/badge/DRF-FF3333?style=flat-square&logo=&logoColor=white"/>
   </a>
-  <a href="https://axce.tistory.com/category/IT/React">
+  <a href="https://axce.tistory.com/category/FrontEnd/React">
     <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
   </a>
-  <a href="https://axce.tistory.com/category/IT/HTML">
+  <a href="https://axce.tistory.com/category/FrontEnd/HTML">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   </a>
-  <a href="https://axce.tistory.com/category/IT/CSS">
+  <a href="https://axce.tistory.com/category/FrontEnd/CSS">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   </a>
-  <a href="https://axce.tistory.com/category/IT/Kotlin">
+  <a href="https://axce.tistory.com/category/Mobile/Kotlin">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   </a>
   
