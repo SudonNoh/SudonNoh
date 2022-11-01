@@ -33,9 +33,6 @@
   <a href="https://axce.tistory.com/category/BackEnd/DRF%20Project">
     <img src="https://img.shields.io/badge/DRF-FF3333?style=flat-square&logo=&logoColor=white"/>
   </a>
-  <a href="https://axce.tistory.com/category/Mobile/Kotlin">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-  </a>
   
 </div>
 
