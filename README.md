@@ -33,6 +33,12 @@
   <a href="https://axce.tistory.com/category/BackEnd/DRF%20Project">
     <img src="https://img.shields.io/badge/DRF-FF3333?style=flat-square&logo=&logoColor=white"/>
   </a>
+  <a href="https://axce.tistory.com/category/Mobile/Swift">
+    <img src="https://img.shields.io/badge/-Swift-orange"/>
+  </a>
+  <a href="https://axce.tistory.com/category/Mobile/iOS">
+    <img src="https://img.shields.io/badge/-iOS-blue"/>
+  </a>
   
 </div>
 
