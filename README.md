@@ -13,7 +13,7 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSudonNoh&count_bg=%23746790&title_bg=%23032D7C&icon=fandom.svg&icon_color=%23FB0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  [![Sudon's github stats](https://github-readme-stats.vercel.app/api?username=sudonnoh&show_icons=true&theme=highcontrast)](https://github.com/sudonnoh/github-readme-stats)
+  [![Sudon's github stats](https://github-readme-stats.vercel.app/api?username=sudonnoh&show_icons=true&theme=radical)](https://github.com/sudonnoh/github-readme-stats)
   
 </div>
 
