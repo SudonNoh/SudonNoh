@@ -24,6 +24,12 @@
   
   <h2>:muscle: Stack</h2>
   <p>Click to see this stack in blog !!</p>
+  <a href="https://axce.tistory.com/category/Mobile/Swift">
+    <img src="https://img.shields.io/badge/-Swift-orange"/>
+  </a>
+  <a href="https://axce.tistory.com/category/Mobile/iOS">
+    <img src="https://img.shields.io/badge/-iOS-blue"/>
+  </a>
   <a href="https://axce.tistory.com/category/BackEnd/Python">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   </a>
@@ -33,13 +39,6 @@
   <a href="https://axce.tistory.com/category/BackEnd/DRF%20Project">
     <img src="https://img.shields.io/badge/DRF-FF3333?style=flat-square&logo=&logoColor=white"/>
   </a>
-  <a href="https://axce.tistory.com/category/Mobile/Swift">
-    <img src="https://img.shields.io/badge/-Swift-orange"/>
-  </a>
-  <a href="https://axce.tistory.com/category/Mobile/iOS">
-    <img src="https://img.shields.io/badge/-iOS-blue"/>
-  </a>
-  
 </div>
 
 <div align=center>
